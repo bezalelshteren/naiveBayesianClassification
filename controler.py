@@ -6,5 +6,11 @@ from classification.train_a_model import train_a_model
 class controler:
     def __init__(self):
         self.del_data = Dal()
+        self.data_table = self.del_data()
         self.check_data = check_data()
+        self.p = self.check_data()
         self.train_a_model = train_a_model()
+
+
+if __name__ == __name__:
+    controler = controler()
