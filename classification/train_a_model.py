@@ -24,4 +24,4 @@ class train_a_model:
                     count = dfuniq[colume].value_counts(normalize=True).to_dict()
                     self.dict_result[name_uniq][colume] = count
 
-        return self.dict_result,self.chooce_which_column()
+        return self.dict_result,colume_purpose
