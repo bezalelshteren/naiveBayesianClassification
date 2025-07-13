@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dfb26fd-608f-4ef1-9c24-fd1cd245cd1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/server/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classification/check_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/classification/check_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classification/train_a_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/classification/train_a_model.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controler.py" beforeDir="false" afterPath="$PROJECT_DIR$/controler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_manage/cleaner.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_manage/cleaner.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_manage/dal.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_manage/dal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
