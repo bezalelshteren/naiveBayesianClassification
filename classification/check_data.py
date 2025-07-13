@@ -1,11 +1,12 @@
 import math
-from imghdr import tests
 
 
-class check_data:
+
+class Check_data:
 
     def __init__(self,dict_result1):
         self.dict_result = dict_result1
+        self.list = []
 
 
     def tests(self,to_check):
@@ -29,8 +30,7 @@ class check_data:
 
 
     def check_all_data(self,dic_all_data):
-        list = []
         for dic in dic_all_data:
             ret = self.tests(dic)
-            list.append(ret)
-        return list
+            self.list.append(ret)
+        return self.list

@@ -7,7 +7,7 @@ class train_a_model:
 
 
     def chooce_which_column(self):
-        column = input("choose which column")
+        column = input("choose which column").strip().strip('"').strip("'")
         return column
 
     def check_statistics(self):
