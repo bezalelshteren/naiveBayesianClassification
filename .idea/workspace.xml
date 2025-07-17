@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2dfb26fd-608f-4ef1-9c24-fd1cd245cd1c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/check_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/classification/check_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/train_a_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/classification/train_a_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controler.py" beforeDir="false" afterPath="$PROJECT_DIR$/controler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_manage/dal.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_manage/dal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.py" afterDir="false" />
     </list>
@@ -36,17 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.check_data.executor": "Run",
-    "Python.cleaner.executor": "Debug",
-    "Python.controler.executor": "Run",
-    "Python.dal.executor": "Run",
-    "Python.server.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.check_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cleaner.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.controler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.server.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dal&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\exe python\naiveBayesianClassification\classification" />
