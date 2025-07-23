@@ -1,9 +1,7 @@
-from controler import controler12
+from server.controler import controler12
 from pydantic import BaseModel
-# import uvicorn
 from fastapi import FastAPI
 import logging
-from loger import logs_for_server
 
 app = FastAPI()
 
@@ -21,27 +19,27 @@ def which_column(column:str):
     controler1 = controler12()
     controler1.make_all_desition()
     controler1.colum(p)
-    controler1.chose_whet_param(1)
+    controler1.chose_whet_param(1,{'age': ">40", 'income': "medium", 'student': "yes", 'credit_rating': "fair"})
     logging.info(f"message column '{column}' processed successfully")
     return{"message": f"column '{column}' processed successfully."}
 
 
-@app.get("/readCsv")
+@app.post("/readCsv")
 def get_csv_file(path: str = r"C:\Users\User\Downloads\buy_computer_data.csv"):
     return {"index of data": path}
 
 
 # # מודל לקליטת הפרמטרים מהגוף (JSON)
 class PredictionRequest(BaseModel):
-    column:str = "buys_computer"
-    choose:int = 1
-    age:str= ">40"
-    income:str= "medium"
-    student:str= "yes"
-    credit_rating:str= "fair"
+    column:str
+    choose:int
+    age:str
+    income:str
+    student:str
+    credit_rating:str
 #
-# @app.post("/predict_all")
-def full_prediction(request: PredictionRequest):
+@app.post("/predict_all")
+def predict_all(request: PredictionRequest):
     logging.info("Received prediction request")
 
     # שליפת הפרמטרים
@@ -63,7 +61,7 @@ def full_prediction(request: PredictionRequest):
     # prediction = controler1.check_data.tests(params)
     print(">>> התחזית שהתקבלה:", prediction)
     logging.info(f"Prediction completed for {params}")
-
+    logging.info(prediction)
     return {
         "input_parameters": params,
         "selected_column": column,
@@ -73,13 +71,4 @@ def full_prediction(request: PredictionRequest):
 
 
 
-
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run("server:app", host="127.0.0.1", port=8000, reload=True)
-    logging.info("server is run")
-    print("server is run")
-
-
 #     {'age': ">40", 'income': "medium", 'student': "yes", 'credit_rating': "fair"}
-

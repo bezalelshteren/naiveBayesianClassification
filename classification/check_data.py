@@ -1,11 +1,11 @@
 import math
-import loger.logs_for_server
 import logging
 
 
 class Check_data:
 
     def __init__(self,dict_result1,col=-1):
+        self.true_labels = None
         self.dict_result = dict_result1
         self.list = []
         self.column = col

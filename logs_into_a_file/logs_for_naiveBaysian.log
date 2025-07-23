@@ -1,0 +1,508 @@
+2025-07-23 09:52:58 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 09:52:58 - INFO - בדיקת לוגים — INFO
+2025-07-23 09:52:58 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 09:52:58 - INFO - גקכעאיחלצ
+2025-07-23 09:53:07 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 09:53:07 - INFO - בדיקת לוגים — INFO
+2025-07-23 09:53:07 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 09:53:07 - INFO - גקכעאיחלצ
+2025-07-23 10:24:20 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 10:24:20 - INFO - בדיקת לוגים — INFO
+2025-07-23 10:24:20 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 10:24:20 - INFO - גקכעאיחלצ
+2025-07-23 10:25:09 - INFO - Received prediction request
+2025-07-23 10:25:09 - INFO -  מחזיר לי את הדאטה שקראתי מהCSV
+2025-07-23 10:25:09 - INFO - read the csv file
+2025-07-23 10:25:09 - INFO - choose_which_column by controler
+2025-07-23 10:25:09 - INFO - make a instance for cleaner
+2025-07-23 10:25:09 - INFO - cat data to 70, 30
+2025-07-23 10:25:09 - INFO - changing data from test to check
+2025-07-23 10:25:09 - INFO - chaing from df to dict
+2025-07-23 10:25:09 - INFO - chaing from df to dict
+2025-07-23 10:25:09 - INFO - make all ready to prediction
+2025-07-23 10:25:09 - INFO - train the model
+2025-07-23 10:25:09 - INFO - check_statistics
+2025-07-23 10:25:09 - INFO - check_statistics
+2025-07-23 10:25:09 - INFO - check_statistics
+2025-07-23 10:25:09 - INFO - check_statistics
+2025-07-23 10:25:09 - INFO - check_statistics
+2025-07-23 10:25:09 - INFO - check_statistics
+2025-07-23 10:25:09 - INFO - check_statistics
+2025-07-23 10:25:09 - INFO - check_statistics
+2025-07-23 10:25:09 - INFO - train successfully 
+2025-07-23 10:25:09 - INFO - instance of check_data
+2025-07-23 10:25:09 - INFO - tests
+2025-07-23 10:25:09 - INFO - check_data of 1 dict
+2025-07-23 10:25:09 - INFO - Prediction completed for {'age': '>40', 'income': 'medium', 'student': 'yes', 'credit_rating': 'fair'}
+2025-07-23 10:25:09 - INFO - ('yes', -3.259697819388456)
+2025-07-23 10:25:11 - INFO - Received prediction request
+2025-07-23 10:25:11 - INFO -  מחזיר לי את הדאטה שקראתי מהCSV
+2025-07-23 10:25:11 - INFO - read the csv file
+2025-07-23 10:25:11 - INFO - choose_which_column by controler
+2025-07-23 10:25:11 - INFO - make a instance for cleaner
+2025-07-23 10:25:11 - INFO - cat data to 70, 30
+2025-07-23 10:25:11 - INFO - changing data from test to check
+2025-07-23 10:25:11 - INFO - chaing from df to dict
+2025-07-23 10:25:11 - INFO - chaing from df to dict
+2025-07-23 10:25:11 - INFO - make all ready to prediction
+2025-07-23 10:25:11 - INFO - train the model
+2025-07-23 10:25:11 - INFO - check_statistics
+2025-07-23 10:25:11 - INFO - check_statistics
+2025-07-23 10:25:11 - INFO - check_statistics
+2025-07-23 10:25:11 - INFO - check_statistics
+2025-07-23 10:25:11 - INFO - check_statistics
+2025-07-23 10:25:11 - INFO - check_statistics
+2025-07-23 10:25:11 - INFO - check_statistics
+2025-07-23 10:25:11 - INFO - check_statistics
+2025-07-23 10:25:11 - INFO - train successfully 
+2025-07-23 10:25:11 - INFO - instance of check_data
+2025-07-23 10:25:11 - INFO - tests
+2025-07-23 10:25:11 - INFO - check_data of 1 dict
+2025-07-23 10:25:11 - INFO - Prediction completed for {'age': '>40', 'income': 'medium', 'student': 'yes', 'credit_rating': 'fair'}
+2025-07-23 10:25:11 - INFO - ('yes', -3.259697819388456)
+2025-07-23 10:25:25 - INFO - Received prediction request
+2025-07-23 10:25:25 - INFO -  מחזיר לי את הדאטה שקראתי מהCSV
+2025-07-23 10:25:25 - INFO - read the csv file
+2025-07-23 10:25:25 - INFO - choose_which_column by controler
+2025-07-23 10:25:25 - INFO - make a instance for cleaner
+2025-07-23 10:25:25 - INFO - cat data to 70, 30
+2025-07-23 10:25:25 - INFO - changing data from test to check
+2025-07-23 10:25:25 - INFO - chaing from df to dict
+2025-07-23 10:25:25 - INFO - chaing from df to dict
+2025-07-23 10:25:25 - INFO - make all ready to prediction
+2025-07-23 10:25:25 - INFO - train the model
+2025-07-23 10:25:25 - INFO - check_statistics
+2025-07-23 10:25:25 - INFO - check_statistics
+2025-07-23 10:25:25 - INFO - check_statistics
+2025-07-23 10:25:25 - INFO - check_statistics
+2025-07-23 10:25:25 - INFO - check_statistics
+2025-07-23 10:25:25 - INFO - check_statistics
+2025-07-23 10:25:25 - INFO - check_statistics
+2025-07-23 10:25:25 - INFO - check_statistics
+2025-07-23 10:25:25 - INFO - train successfully 
+2025-07-23 10:25:25 - INFO - instance of check_data
+2025-07-23 10:25:25 - INFO - tests
+2025-07-23 10:25:25 - INFO - tests
+2025-07-23 10:25:25 - INFO - tests
+2025-07-23 10:25:25 - INFO - tests
+2025-07-23 10:25:25 - INFO - tests
+2025-07-23 10:25:25 - INFO - test_whe_mach_corectly
+2025-07-23 10:25:25 - INFO - test_whe_mach_correctly in all data !!
+2025-07-23 10:25:25 - INFO - Prediction completed for {'age': '>40', 'income': 'medium', 'student': 'yes', 'credit_rating': 'fair'}
+2025-07-23 10:25:25 - INFO - [('yes', -3.259697819388456), ('no', -3.7534179752515078), ('yes', -5.05145728861651), ('yes', -3.259697819388456), ('no', -3.7534179752515073)]
+2025-07-23 11:00:18 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 11:00:18 - INFO - בדיקת לוגים — INFO
+2025-07-23 11:00:18 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 11:00:18 - INFO - גקכעאיחלצ
+2025-07-23 11:00:27 - INFO - Received prediction request
+2025-07-23 11:00:27 - INFO -  מחזיר לי את הדאטה שקראתי מהCSV
+2025-07-23 11:00:27 - INFO - read the csv file
+2025-07-23 11:00:27 - INFO - choose_which_column by controler
+2025-07-23 11:00:27 - INFO - make a instance for cleaner
+2025-07-23 11:00:27 - INFO - cat data to 70, 30
+2025-07-23 11:00:27 - INFO - changing data from test to check
+2025-07-23 11:00:27 - INFO - chaing from df to dict
+2025-07-23 11:00:27 - INFO - chaing from df to dict
+2025-07-23 11:00:27 - INFO - make all ready to prediction
+2025-07-23 11:00:27 - INFO - train the model
+2025-07-23 11:00:27 - INFO - check_statistics
+2025-07-23 11:00:27 - INFO - check_statistics
+2025-07-23 11:00:27 - INFO - check_statistics
+2025-07-23 11:00:27 - INFO - check_statistics
+2025-07-23 11:00:27 - INFO - check_statistics
+2025-07-23 11:00:27 - INFO - check_statistics
+2025-07-23 11:00:27 - INFO - check_statistics
+2025-07-23 11:00:27 - INFO - check_statistics
+2025-07-23 11:00:27 - INFO - train successfully 
+2025-07-23 11:00:27 - INFO - instance of check_data
+2025-07-23 11:00:27 - INFO - tests
+2025-07-23 11:00:27 - INFO - check_data of 1 dict
+2025-07-23 11:00:27 - INFO - Prediction completed for {'age': '>40', 'income': 'medium', 'student': 'yes', 'credit_rating': 'fair'}
+2025-07-23 11:00:27 - INFO - ('yes', -3.259697819388456)
+2025-07-23 12:27:14 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 12:27:14 - INFO - בדיקת לוגים — INFO
+2025-07-23 12:27:14 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 12:27:14 - INFO - גקכעאיחלצ
+2025-07-23 12:27:23 - INFO - Received prediction request
+2025-07-23 12:27:23 - INFO -  מחזיר לי את הדאטה שקראתי מהCSV
+2025-07-23 12:27:23 - INFO - read the csv file
+2025-07-23 12:27:23 - INFO - choose_which_column by controler
+2025-07-23 12:27:23 - INFO - make a instance for cleaner
+2025-07-23 12:27:23 - INFO - cat data to 70, 30
+2025-07-23 12:27:23 - INFO - changing data from test to check
+2025-07-23 12:27:23 - INFO - chaing from df to dict
+2025-07-23 12:27:23 - INFO - chaing from df to dict
+2025-07-23 12:27:23 - INFO - make all ready to prediction
+2025-07-23 12:27:23 - INFO - train the model
+2025-07-23 12:27:23 - INFO - check_statistics
+2025-07-23 12:27:23 - INFO - check_statistics
+2025-07-23 12:27:23 - INFO - check_statistics
+2025-07-23 12:27:23 - INFO - check_statistics
+2025-07-23 12:27:23 - INFO - check_statistics
+2025-07-23 12:27:23 - INFO - check_statistics
+2025-07-23 12:27:23 - INFO - check_statistics
+2025-07-23 12:27:23 - INFO - check_statistics
+2025-07-23 12:27:23 - INFO - train successfully 
+2025-07-23 12:27:23 - INFO - instance of check_data
+2025-07-23 12:27:23 - INFO - tests
+2025-07-23 12:27:23 - INFO - check_data of 1 dict
+2025-07-23 12:27:23 - INFO - Prediction completed for {'age': '>40', 'income': 'medium', 'student': 'yes', 'credit_rating': 'fair'}
+2025-07-23 12:27:23 - INFO - ('yes', -3.259697819388456)
+2025-07-23 12:38:55 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 12:38:55 - INFO - בדיקת לוגים — INFO
+2025-07-23 12:38:55 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 12:38:55 - INFO - גקכעאיחלצ
+2025-07-23 12:39:01 - INFO - Received prediction request
+2025-07-23 12:39:01 - INFO -  מחזיר לי את הדאטה שקראתי מהCSV
+2025-07-23 12:39:01 - INFO - read the csv file
+2025-07-23 12:39:01 - INFO - choose_which_column by controler
+2025-07-23 12:39:01 - INFO - make a instance for cleaner
+2025-07-23 12:39:01 - INFO - cat data to 70, 30
+2025-07-23 12:39:01 - INFO - changing data from test to check
+2025-07-23 12:39:01 - INFO - chaing from df to dict
+2025-07-23 12:39:01 - INFO - chaing from df to dict
+2025-07-23 12:39:01 - INFO - make all ready to prediction
+2025-07-23 12:39:01 - INFO - train the model
+2025-07-23 12:39:01 - INFO - check_statistics
+2025-07-23 12:39:01 - INFO - check_statistics
+2025-07-23 12:39:01 - INFO - check_statistics
+2025-07-23 12:39:01 - INFO - check_statistics
+2025-07-23 12:39:01 - INFO - check_statistics
+2025-07-23 12:39:01 - INFO - check_statistics
+2025-07-23 12:39:01 - INFO - check_statistics
+2025-07-23 12:39:01 - INFO - check_statistics
+2025-07-23 12:39:01 - INFO - train successfully 
+2025-07-23 12:39:01 - INFO - instance of check_data
+2025-07-23 12:39:01 - INFO - tests
+2025-07-23 12:39:01 - INFO - check_data of 1 dict
+2025-07-23 12:39:01 - INFO - Prediction completed for {'age': '>40', 'income': 'medium', 'student': 'yes', 'credit_rating': 'fair'}
+2025-07-23 12:39:01 - INFO - ('yes', -3.259697819388456)
+2025-07-23 12:43:16 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 12:43:16 - INFO - בדיקת לוגים — INFO
+2025-07-23 12:43:16 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 12:43:16 - INFO - גקכעאיחלצ
+2025-07-23 12:43:17 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 12:43:17 - INFO - בדיקת לוגים — INFO
+2025-07-23 12:43:17 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 12:43:17 - INFO - גקכעאיחלצ
+2025-07-23 12:43:18 - DEBUG - Using selector: SelectSelector
+2025-07-23 12:43:26 - INFO - server is stop
+2025-07-23 12:43:28 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 12:43:28 - INFO - בדיקת לוגים — INFO
+2025-07-23 12:43:28 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 12:43:28 - INFO - גקכעאיחלצ
+2025-07-23 12:43:33 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 12:43:33 - INFO - בדיקת לוגים — INFO
+2025-07-23 12:43:33 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 12:43:33 - INFO - גקכעאיחלצ
+2025-07-23 12:43:59 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 12:43:59 - INFO - בדיקת לוגים — INFO
+2025-07-23 12:43:59 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 12:43:59 - INFO - גקכעאיחלצ
+2025-07-23 12:44:17 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 12:44:17 - INFO - בדיקת לוגים — INFO
+2025-07-23 12:44:17 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 12:44:17 - INFO - גקכעאיחלצ
+2025-07-23 12:46:18 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 12:46:18 - INFO - בדיקת לוגים — INFO
+2025-07-23 12:46:18 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 12:46:18 - INFO - גקכעאיחלצ
+2025-07-23 12:46:26 - INFO - Received prediction request
+2025-07-23 12:46:26 - INFO -  מחזיר לי את הדאטה שקראתי מהCSV
+2025-07-23 12:46:26 - INFO - read the csv file
+2025-07-23 12:46:26 - INFO - choose_which_column by controler
+2025-07-23 12:46:26 - INFO - make a instance for cleaner
+2025-07-23 12:46:26 - INFO - cat data to 70, 30
+2025-07-23 12:46:26 - INFO - changing data from test to check
+2025-07-23 12:46:26 - INFO - chaing from df to dict
+2025-07-23 12:46:26 - INFO - chaing from df to dict
+2025-07-23 12:46:26 - INFO - make all ready to prediction
+2025-07-23 12:46:26 - INFO - train the model
+2025-07-23 12:46:26 - INFO - check_statistics
+2025-07-23 12:46:26 - INFO - check_statistics
+2025-07-23 12:46:26 - INFO - check_statistics
+2025-07-23 12:46:26 - INFO - check_statistics
+2025-07-23 12:46:26 - INFO - check_statistics
+2025-07-23 12:46:26 - INFO - check_statistics
+2025-07-23 12:46:26 - INFO - check_statistics
+2025-07-23 12:46:26 - INFO - check_statistics
+2025-07-23 12:46:26 - INFO - train successfully 
+2025-07-23 12:46:26 - INFO - instance of check_data
+2025-07-23 12:46:26 - INFO - tests
+2025-07-23 12:46:26 - INFO - check_data of 1 dict
+2025-07-23 12:46:26 - INFO - Prediction completed for {'age': '>40', 'income': 'medium', 'student': 'yes', 'credit_rating': 'fair'}
+2025-07-23 12:46:26 - INFO - ('yes', -3.259697819388456)
+2025-07-23 12:49:30 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 12:49:30 - INFO - בדיקת לוגים — INFO
+2025-07-23 12:49:30 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 12:49:30 - INFO - גקכעאיחלצ
+2025-07-23 12:52:06 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 12:52:06 - INFO - בדיקת לוגים — INFO
+2025-07-23 12:52:06 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 12:52:06 - INFO - גקכעאיחלצ
+2025-07-23 12:54:14 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 12:54:14 - INFO - בדיקת לוגים — INFO
+2025-07-23 12:54:14 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 12:54:14 - INFO - גקכעאיחלצ
+2025-07-23 12:54:15 - DEBUG - Using proactor: IocpProactor
+2025-07-23 12:54:25 - INFO - Received prediction request
+2025-07-23 12:54:25 - INFO -  מחזיר לי את הדאטה שקראתי מהCSV
+2025-07-23 12:54:25 - INFO - read the csv file
+2025-07-23 12:54:25 - INFO - choose_which_column by controler
+2025-07-23 12:54:25 - INFO - make a instance for cleaner
+2025-07-23 12:54:25 - INFO - cat data to 70, 30
+2025-07-23 12:54:25 - INFO - changing data from test to check
+2025-07-23 12:54:25 - INFO - chaing from df to dict
+2025-07-23 12:54:25 - INFO - chaing from df to dict
+2025-07-23 12:54:25 - INFO - make all ready to prediction
+2025-07-23 12:54:25 - INFO - train the model
+2025-07-23 12:54:25 - INFO - check_statistics
+2025-07-23 12:54:25 - INFO - check_statistics
+2025-07-23 12:54:25 - INFO - check_statistics
+2025-07-23 12:54:25 - INFO - check_statistics
+2025-07-23 12:54:25 - INFO - check_statistics
+2025-07-23 12:54:25 - INFO - check_statistics
+2025-07-23 12:54:25 - INFO - check_statistics
+2025-07-23 12:54:25 - INFO - check_statistics
+2025-07-23 12:54:25 - INFO - train successfully 
+2025-07-23 12:54:25 - INFO - instance of check_data
+2025-07-23 12:54:25 - INFO - tests
+2025-07-23 12:54:25 - INFO - check_data of 1 dict
+2025-07-23 12:54:25 - INFO - Prediction completed for {'age': '>40', 'income': 'medium', 'student': 'yes', 'credit_rating': 'fair'}
+2025-07-23 12:54:25 - INFO - ('yes', -3.259697819388456)
+2025-07-23 12:54:35 - INFO - server is stop
+2025-07-23 12:58:59 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 12:58:59 - INFO - בדיקת לוגים — INFO
+2025-07-23 12:58:59 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 12:58:59 - INFO - גקכעאיחלצ
+2025-07-23 12:58:59 - DEBUG - Using proactor: IocpProactor
+2025-07-23 12:59:08 - INFO - Received prediction request
+2025-07-23 12:59:08 - INFO -  מחזיר לי את הדאטה שקראתי מהCSV
+2025-07-23 12:59:08 - INFO - read the csv file
+2025-07-23 12:59:09 - INFO - choose_which_column by controler
+2025-07-23 12:59:09 - INFO - make a instance for cleaner
+2025-07-23 12:59:09 - INFO - cat data to 70, 30
+2025-07-23 12:59:09 - INFO - changing data from test to check
+2025-07-23 12:59:09 - INFO - chaing from df to dict
+2025-07-23 12:59:09 - INFO - chaing from df to dict
+2025-07-23 12:59:09 - INFO - make all ready to prediction
+2025-07-23 12:59:09 - INFO - train the model
+2025-07-23 12:59:09 - INFO - check_statistics
+2025-07-23 12:59:09 - INFO - check_statistics
+2025-07-23 12:59:09 - INFO - check_statistics
+2025-07-23 12:59:09 - INFO - check_statistics
+2025-07-23 12:59:09 - INFO - check_statistics
+2025-07-23 12:59:09 - INFO - check_statistics
+2025-07-23 12:59:09 - INFO - check_statistics
+2025-07-23 12:59:09 - INFO - check_statistics
+2025-07-23 12:59:09 - INFO - train successfully 
+2025-07-23 12:59:09 - INFO - instance of check_data
+2025-07-23 12:59:09 - INFO - tests
+2025-07-23 12:59:09 - INFO - check_data of 1 dict
+2025-07-23 12:59:09 - INFO - Prediction completed for {'age': '>40', 'income': 'medium', 'student': 'yes', 'credit_rating': 'fair'}
+2025-07-23 12:59:09 - INFO - ('yes', -3.259697819388456)
+2025-07-23 12:59:27 - INFO - Received prediction request
+2025-07-23 12:59:27 - INFO -  מחזיר לי את הדאטה שקראתי מהCSV
+2025-07-23 12:59:27 - INFO - read the csv file
+2025-07-23 12:59:27 - INFO - choose_which_column by controler
+2025-07-23 12:59:27 - INFO - make a instance for cleaner
+2025-07-23 12:59:27 - INFO - cat data to 70, 30
+2025-07-23 12:59:27 - INFO - changing data from test to check
+2025-07-23 12:59:27 - INFO - chaing from df to dict
+2025-07-23 12:59:27 - INFO - chaing from df to dict
+2025-07-23 12:59:27 - INFO - make all ready to prediction
+2025-07-23 12:59:27 - INFO - train the model
+2025-07-23 12:59:27 - INFO - check_statistics
+2025-07-23 12:59:27 - INFO - check_statistics
+2025-07-23 12:59:27 - INFO - check_statistics
+2025-07-23 12:59:27 - INFO - check_statistics
+2025-07-23 12:59:27 - INFO - check_statistics
+2025-07-23 12:59:27 - INFO - check_statistics
+2025-07-23 12:59:27 - INFO - check_statistics
+2025-07-23 12:59:27 - INFO - check_statistics
+2025-07-23 12:59:27 - INFO - train successfully 
+2025-07-23 12:59:27 - INFO - instance of check_data
+2025-07-23 12:59:27 - INFO - tests
+2025-07-23 12:59:27 - INFO - tests
+2025-07-23 12:59:27 - INFO - tests
+2025-07-23 12:59:27 - INFO - tests
+2025-07-23 12:59:27 - INFO - tests
+2025-07-23 12:59:27 - INFO - test_whe_mach_corectly
+2025-07-23 12:59:27 - INFO - test_whe_mach_correctly in all data !!
+2025-07-23 12:59:27 - INFO - Prediction completed for {'age': '>40', 'income': 'medium', 'student': 'yes', 'credit_rating': 'fair'}
+2025-07-23 12:59:27 - INFO - [('yes', -3.259697819388456), ('no', -3.7534179752515078), ('yes', -5.05145728861651), ('yes', -3.259697819388456), ('no', -3.7534179752515073)]
+2025-07-23 13:00:50 - INFO - server is stop
+2025-07-23 13:39:39 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 13:39:39 - INFO - בדיקת לוגים — INFO
+2025-07-23 13:39:39 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 13:39:39 - INFO - גקכעאיחלצ
+2025-07-23 13:39:40 - DEBUG - Using proactor: IocpProactor
+2025-07-23 13:40:43 - INFO - server is stop
+2025-07-23 13:40:45 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 13:40:45 - INFO - בדיקת לוגים — INFO
+2025-07-23 13:40:45 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 13:40:45 - INFO - גקכעאיחלצ
+2025-07-23 13:40:46 - DEBUG - Using proactor: IocpProactor
+2025-07-23 13:41:19 - INFO - server is stop
+2025-07-23 13:41:22 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 13:41:22 - INFO - בדיקת לוגים — INFO
+2025-07-23 13:41:22 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 13:41:22 - INFO - גקכעאיחלצ
+2025-07-23 13:41:22 - DEBUG - Using proactor: IocpProactor
+2025-07-23 13:41:28 - INFO - Received prediction request
+2025-07-23 13:41:28 - INFO -  מחזיר לי את הדאטה שקראתי מהCSV
+2025-07-23 13:41:28 - INFO - read the csv file
+2025-07-23 13:41:28 - INFO - choose_which_column by controler
+2025-07-23 13:41:28 - INFO - make a instance for cleaner
+2025-07-23 13:41:28 - INFO - cat data to 70, 30
+2025-07-23 13:41:28 - INFO - changing data from test to check
+2025-07-23 13:41:28 - INFO - chaing from df to dict
+2025-07-23 13:41:28 - INFO - chaing from df to dict
+2025-07-23 13:41:28 - INFO - make all ready to prediction
+2025-07-23 13:41:28 - INFO - train the model
+2025-07-23 13:41:28 - INFO - check_statistics
+2025-07-23 13:41:28 - INFO - check_statistics
+2025-07-23 13:41:28 - INFO - check_statistics
+2025-07-23 13:41:28 - INFO - check_statistics
+2025-07-23 13:41:28 - INFO - check_statistics
+2025-07-23 13:41:28 - INFO - check_statistics
+2025-07-23 13:41:28 - INFO - check_statistics
+2025-07-23 13:41:28 - INFO - check_statistics
+2025-07-23 13:41:28 - INFO - train successfully 
+2025-07-23 13:41:28 - INFO - instance of check_data
+2025-07-23 13:41:28 - INFO - tests
+2025-07-23 13:41:28 - INFO - tests
+2025-07-23 13:41:28 - INFO - tests
+2025-07-23 13:41:28 - INFO - tests
+2025-07-23 13:41:28 - INFO - tests
+2025-07-23 13:41:28 - INFO - test_whe_mach_corectly
+2025-07-23 13:41:28 - INFO - test_whe_mach_correctly in all data !!
+2025-07-23 13:41:28 - INFO - Prediction completed for {'age': '>40', 'income': 'medium', 'student': 'yes', 'credit_rating': 'fair'}
+2025-07-23 13:41:28 - INFO - [('yes', -3.259697819388456), ('no', -3.7534179752515078), ('yes', -5.05145728861651), ('yes', -3.259697819388456), ('no', -3.7534179752515073)]
+2025-07-23 13:41:52 - INFO - server is stop
+2025-07-23 13:51:30 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 13:51:30 - INFO - בדיקת לוגים — INFO
+2025-07-23 13:51:30 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 13:51:30 - INFO - גקכעאיחלצ
+2025-07-23 13:51:30 - DEBUG - Using proactor: IocpProactor
+2025-07-23 13:51:37 - INFO - Received prediction request
+2025-07-23 13:51:37 - INFO -  מחזיר לי את הדאטה שקראתי מהCSV
+2025-07-23 13:51:37 - INFO - read the csv file
+2025-07-23 13:51:37 - INFO - choose_which_column by controler
+2025-07-23 13:51:37 - INFO - make a instance for cleaner
+2025-07-23 13:51:37 - INFO - cat data to 70, 30
+2025-07-23 13:51:37 - INFO - changing data from test to check
+2025-07-23 13:51:37 - INFO - chaing from df to dict
+2025-07-23 13:51:37 - INFO - chaing from df to dict
+2025-07-23 13:51:37 - INFO - make all ready to prediction
+2025-07-23 13:51:37 - INFO - train the model
+2025-07-23 13:51:37 - INFO - check_statistics
+2025-07-23 13:51:37 - INFO - check_statistics
+2025-07-23 13:51:37 - INFO - check_statistics
+2025-07-23 13:51:37 - INFO - check_statistics
+2025-07-23 13:51:37 - INFO - check_statistics
+2025-07-23 13:51:37 - INFO - check_statistics
+2025-07-23 13:51:37 - INFO - check_statistics
+2025-07-23 13:51:37 - INFO - check_statistics
+2025-07-23 13:51:37 - INFO - train successfully 
+2025-07-23 13:51:37 - INFO - instance of check_data
+2025-07-23 13:51:37 - INFO - tests
+2025-07-23 13:51:37 - INFO - tests
+2025-07-23 13:51:37 - INFO - tests
+2025-07-23 13:51:37 - INFO - tests
+2025-07-23 13:51:37 - INFO - tests
+2025-07-23 13:51:37 - INFO - test_whe_mach_corectly
+2025-07-23 13:51:37 - INFO - test_whe_mach_correctly in all data !!
+2025-07-23 13:51:37 - INFO - Prediction completed for {'age': '>40', 'income': 'medium', 'student': 'yes', 'credit_rating': 'fair'}
+2025-07-23 13:51:37 - INFO - [('yes', -3.259697819388456), ('no', -3.7534179752515078), ('yes', -5.05145728861651), ('yes', -3.259697819388456), ('no', -3.7534179752515073)]
+2025-07-23 13:51:48 - INFO - server is stop
+2025-07-23 13:58:18 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 13:58:18 - INFO - בדיקת לוגים — INFO
+2025-07-23 13:58:18 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 13:58:18 - INFO - גקכעאיחלצ
+2025-07-23 13:58:18 - DEBUG - Using proactor: IocpProactor
+2025-07-23 13:58:35 - INFO - server is stop
+2025-07-23 13:58:37 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 13:58:37 - INFO - בדיקת לוגים — INFO
+2025-07-23 13:58:37 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 13:58:37 - INFO - גקכעאיחלצ
+2025-07-23 13:58:37 - DEBUG - Using proactor: IocpProactor
+2025-07-23 13:59:19 - INFO - server is stop
+2025-07-23 13:59:23 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 13:59:23 - INFO - בדיקת לוגים — INFO
+2025-07-23 13:59:23 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 13:59:23 - INFO - גקכעאיחלצ
+2025-07-23 14:50:58 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 14:50:58 - INFO - בדיקת לוגים — INFO
+2025-07-23 14:50:58 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 14:50:58 - INFO - גקכעאיחלצ
+2025-07-23 14:50:59 - DEBUG - Using proactor: IocpProactor
+2025-07-23 14:51:15 - INFO - Welcome to the Naive Bayes project!
+2025-07-23 14:51:30 - INFO - Received prediction request
+2025-07-23 14:51:30 - INFO -  מחזיר לי את הדאטה שקראתי מהCSV
+2025-07-23 14:51:30 - INFO - read the csv file
+2025-07-23 14:51:30 - INFO - choose_which_column by controler
+2025-07-23 14:51:30 - INFO - make a instance for cleaner
+2025-07-23 14:51:30 - INFO - cat data to 70, 30
+2025-07-23 14:51:30 - INFO - changing data from test to check
+2025-07-23 14:51:30 - INFO - chaing from df to dict
+2025-07-23 14:51:30 - INFO - chaing from df to dict
+2025-07-23 14:51:30 - INFO - make all ready to prediction
+2025-07-23 14:51:30 - INFO - train the model
+2025-07-23 14:51:30 - INFO - check_statistics
+2025-07-23 14:51:30 - INFO - check_statistics
+2025-07-23 14:51:30 - INFO - check_statistics
+2025-07-23 14:51:30 - INFO - check_statistics
+2025-07-23 14:51:30 - INFO - check_statistics
+2025-07-23 14:51:30 - INFO - check_statistics
+2025-07-23 14:51:30 - INFO - check_statistics
+2025-07-23 14:51:30 - INFO - check_statistics
+2025-07-23 14:51:30 - INFO - train successfully 
+2025-07-23 14:51:30 - INFO - instance of check_data
+2025-07-23 14:51:30 - INFO - tests
+2025-07-23 14:51:30 - INFO - tests
+2025-07-23 14:51:30 - INFO - tests
+2025-07-23 14:51:30 - INFO - tests
+2025-07-23 14:51:30 - INFO - tests
+2025-07-23 14:51:30 - INFO - test_whe_mach_corectly
+2025-07-23 14:51:30 - INFO - test_whe_mach_correctly in all data !!
+2025-07-23 14:51:30 - INFO - Prediction completed for {'age': '>40', 'income': 'medium', 'student': 'yes', 'credit_rating': 'fair'}
+2025-07-23 14:51:30 - INFO - [('yes', -3.259697819388456), ('no', -3.7534179752515078), ('yes', -5.05145728861651), ('yes', -3.259697819388456), ('no', -3.7534179752515073)]
+2025-07-23 14:52:00 - INFO - server is stop
+2025-07-23 14:56:02 - DEBUG - בדיקת לוגים — DEBUG
+2025-07-23 14:56:02 - INFO - בדיקת לוגים — INFO
+2025-07-23 14:56:02 - WARNING - בדיקת לוגים — WARNING
+2025-07-23 14:56:02 - INFO - גקכעאיחלצ
+2025-07-23 14:56:03 - DEBUG - Using proactor: IocpProactor
+2025-07-23 14:56:15 - INFO - Received prediction request
+2025-07-23 14:56:15 - INFO -  מחזיר לי את הדאטה שקראתי מהCSV
+2025-07-23 14:56:15 - INFO - read the csv file
+2025-07-23 14:56:15 - INFO - choose_which_column by controler
+2025-07-23 14:56:15 - INFO - make a instance for cleaner
+2025-07-23 14:56:15 - INFO - cat data to 70, 30
+2025-07-23 14:56:15 - INFO - changing data from test to check
+2025-07-23 14:56:15 - INFO - chaing from df to dict
+2025-07-23 14:56:15 - INFO - chaing from df to dict
+2025-07-23 14:56:15 - INFO - make all ready to prediction
+2025-07-23 14:56:15 - INFO - train the model
+2025-07-23 14:56:15 - INFO - check_statistics
+2025-07-23 14:56:15 - INFO - check_statistics
+2025-07-23 14:56:15 - INFO - check_statistics
+2025-07-23 14:56:15 - INFO - check_statistics
+2025-07-23 14:56:15 - INFO - check_statistics
+2025-07-23 14:56:15 - INFO - check_statistics
+2025-07-23 14:56:15 - INFO - check_statistics
+2025-07-23 14:56:15 - INFO - check_statistics
+2025-07-23 14:56:15 - INFO - train successfully 
+2025-07-23 14:56:15 - INFO - instance of check_data
+2025-07-23 14:56:15 - INFO - tests
+2025-07-23 14:56:15 - INFO - tests
+2025-07-23 14:56:15 - INFO - tests
+2025-07-23 14:56:15 - INFO - tests
+2025-07-23 14:56:15 - INFO - tests
+2025-07-23 14:56:15 - INFO - test_whe_mach_corectly
+2025-07-23 14:56:15 - INFO - test_whe_mach_correctly in all data !!
+2025-07-23 14:56:15 - INFO - Prediction completed for {'age': '>40', 'income': 'medium', 'student': 'yes', 'credit_rating': 'fair'}
+2025-07-23 14:56:15 - INFO - [('yes', -3.259697819388456), ('no', -3.7534179752515078), ('yes', -5.05145728861651), ('yes', -3.259697819388456), ('no', -3.7534179752515073)]
+2025-07-23 14:56:22 - INFO - Welcome to the Naive Bayes project!
+2025-07-23 14:56:25 - INFO - server is stop

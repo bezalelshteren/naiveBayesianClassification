@@ -2,7 +2,6 @@ from data_manage.dal import Dal
 from classification.check_data import Check_data
 from classification.train_a_model import train_a_model
 from data_manage.cleaner import clean_data
-import loger.logs_for_server
 import logging
 logging.info("גקכעאיחלצ")
 
@@ -56,7 +55,7 @@ class controler12:
             logging.error(f"make all test in controller {e}")
 
 
-    def chose_whet_param(self,chose:int,dict_to_pradict={'age': ">40", 'income': "medium", 'student': "yes", 'credit_rating': "fair"}):
+    def chose_whet_param(self,chose:int,dict_to_pradict:dict):
         try:
             if chose == 1:
                 self.Tests = self.check_data.tests(dict_to_pradict)

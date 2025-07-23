@@ -1,5 +1,4 @@
 import logging
-import loger.logs_for_server
 
 
 class train_a_model:
