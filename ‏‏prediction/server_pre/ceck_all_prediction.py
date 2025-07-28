@@ -4,7 +4,7 @@ import logging
 
 class Check_data:
 
-    def __init__(self,dict_result1,col=-1):
+    def __init__(self,dict_result1,col):
         self.true_labels = None
         self.dict_result = dict_result1
         self.list = []
@@ -29,6 +29,7 @@ class Check_data:
             best_group = max(dict_probability, key=dict_probability.get)
             best_prob = dict_probability[best_group]
             logging.info("tests")
+            print(best_group,"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$44")
             return   best_group, best_prob
         except Exception as e:
             logging.error(f"tests{e}")
@@ -64,3 +65,4 @@ class Check_data:
             return accuracy
         except Exception as e:
             logging.error(f"test_whe_mach_corectly{e}")
+

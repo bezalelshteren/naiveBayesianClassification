@@ -8,7 +8,7 @@ class train_a_model:
 
 
 
-    def check_statistics(self,column = -1):
+    def check_statistics(self,column):
         try:
             data_table_grouped = self.data_table.groupby(column)
 
@@ -22,7 +22,6 @@ class train_a_model:
                         count = dfuniq[colume].value_counts(normalize=True).to_dict()
                         self.dict_result[name_uniq][colume] = count
                         logging.info("check_statistics")
-
-            return self.dict_result,column
+            return self.dict_result
         except Exception as e:
             logging.error(f"check_statistics {e}")

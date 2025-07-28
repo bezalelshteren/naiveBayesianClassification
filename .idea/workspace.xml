@@ -5,14 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dfb26fd-608f-4ef1-9c24-fd1cd245cd1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/the-csv-file/buy_computer_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/‏‏prediction/dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/‏‏prediction/loger/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/‏‏prediction/loger/loger_predic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/‏‏prediction/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/‏‏prediction/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/‏‏prediction/server_pre/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_manage/dal.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_manage/dal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loger/logs_into_a_file/logs_for_naiveBaysian.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/‏‏prediction/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classification/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classification/check_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classification/train_a_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_manage/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_manage/cleaner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_manage/dal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loger/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loger/logs_for_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs_into_a_file/logs_for_naiveBaysian.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controler.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/server/logs_into_a_file/logs_for_naiveBaysian.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/the-csv-file/buy_computer_data.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +58,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.Run server.py.executor": "Debug",
+    "Python.Run server.py.executor": "Run",
+    "Python.ceck_all_prediction.executor": "Run",
     "Python.check_data.executor": "Run",
-    "Python.cleaner.executor": "Debug",
+    "Python.cleaner.executor": "Run",
+    "Python.client_prediction.executor": "Run",
     "Python.controler.executor": "Run",
     "Python.dal.executor": "Run",
     "Python.logs_for_server.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.server.executor": "Run",
+    "Python.server_prediction.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dal",
+    "git-widget-placeholder": "start-with-version-2",
     "last_opened_file_path": "C:/Users/User/exe python/naiveBayesianClassification/the-csv-file"
   }
 }]]></component>
@@ -57,10 +79,11 @@
       <recent name="C:\Users\User\exe python\naiveBayesianClassification\the-csv-file" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\exe python\naiveBayesianClassification\‏‏prediction\loger" />
+      <recent name="C:\Users\User\exe python\naiveBayesianClassification\‏‏prediction" />
+      <recent name="C:\Users\User\exe python\naiveBayesianClassification\‏‏prediction\server_pre" />
+      <recent name="C:\Users\User\exe python\naiveBayesianClassification\‏‏prediction\app" />
       <recent name="C:\Users\User\exe python\naiveBayesianClassification" />
-      <recent name="C:\Users\User\exe python\naiveBayesianClassification\server" />
-      <recent name="C:\Users\User\exe python\naiveBayesianClassification\classification" />
-      <recent name="C:\Users\User\exe python\naiveBayesianClassification\data_manage" />
     </key>
   </component>
   <component name="RunManager">

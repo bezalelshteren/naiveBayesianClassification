@@ -1,5 +1,4 @@
 import pandas as pd
-import loger.logs_for_server
 import logging
 from pathlib import Path
 
@@ -39,8 +38,8 @@ class Dal:
         self.data_table_read = pd.read_csv(the_csv_file)
         logging.info("read the csv file")
         self.data_table = pd.DataFrame(self.data_table_read)
-        print("Available columns:", self.data_table)
-
+        logging.info("Available columns:", self.data_table)
+        # print(self.data_table)
         return self.data_table
 # del1 = Dal()
 # del1.read_the_csv_to_df()
